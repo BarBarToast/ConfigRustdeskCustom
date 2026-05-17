@@ -7,8 +7,9 @@ Repository untuk menyimpan config custom RustDesk.
 1. Open RustDesk
 2. Settings → Network
 3. Buka menu ID/Relay Server
-5. Copy isi config di aturwalpat-config.txt
-6. Paste lalu Apply
+5. Copy isi IMPORT SETTING CONFIG di aturwalpat-config.txt
+6. Klik button import di menu ID/Relay Server
+7. Klik OK
 
 ## Notes
 
